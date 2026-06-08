@@ -1,8 +1,10 @@
 # Tugas Pertemuan 12 - Pemrograman Web II
 ## Identitas Mahasiswa
 
-*Nama : Dwinta Vivian Acintya Syahda
-*NIM : 60324053
+- **Nama:** Dwinta Vivian Acintya Syahda  
+- **NIM:** 60324053  
+- **Mata Kuliah:** Pemrograman Web II  
+
 
 ## Deskripsi
 
